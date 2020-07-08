@@ -2,7 +2,7 @@
   "name": "andreani-publico/magento-2.3",
   "description": "module andreani 2.3",
   "type": "magento-module",
-  "stability": "stable",
+  "minimum-stability": "stable",
   "require": {
     "spipu/html2pdf": "^5.2"
     
