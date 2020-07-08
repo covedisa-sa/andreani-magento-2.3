@@ -7,7 +7,7 @@
     "OSL-3.0",
     "AFL-3.0"
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "alpha",
   "require": {
     "spipu/html2pdf": "^5.2"
     
