@@ -12,11 +12,8 @@
     "files": [
       "registration.php"
     ],
-    "psr-0": {
-      "Andreani": "src"
-    },
     "psr-4": {
-      "Ids\\Andreani\\": ""
+      "DrubuNet\\Andreani\\": ""
     }
   },
   "authors": [
