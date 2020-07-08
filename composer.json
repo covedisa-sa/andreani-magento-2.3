@@ -8,6 +8,7 @@
     "AFL-3.0"
   ],
   "minimum-stability": "alpha",
+  "prefer-stable": true,
   "require": {
     "spipu/html2pdf": "^5.2"
     
