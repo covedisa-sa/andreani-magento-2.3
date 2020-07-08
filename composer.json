@@ -3,7 +3,7 @@
   "description": "module andreani 2.3",
   "type": "magento2-module",
   "version": "1.0.0",
-  "minimum-stability": "dev",
+  "minimum-stability": "beta",
   "prefer-stable": true,
   "require": {
     "spipu/html2pdf": "^5.2"
