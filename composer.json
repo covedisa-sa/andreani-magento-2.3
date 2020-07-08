@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "minimum-stability": "stable",
   "require": {
+    "magento/product-community-edition": "2.3.4",
     "spipu/html2pdf": "^5.2"
   },
   "autoload": {
