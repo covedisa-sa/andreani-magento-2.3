@@ -9,7 +9,7 @@
   },
   "autoload": {
     "files": [
-      "app/code/DrubuNet/Andreani/registration.php"
+      "registration.php"
     ],
     "psr-0": {
       "Andreani": "src"
