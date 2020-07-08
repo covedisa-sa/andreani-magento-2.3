@@ -6,6 +6,17 @@
     "spipu/html2pdf": "^5.2"
     
   },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-0": {
+      "Andreani": "src"
+    },
+    "psr-4": {
+      "Ids\\Andreani\\": ""
+    }
+  },
   "authors": [
     {
       "name": "dcappelletti",
@@ -13,5 +24,6 @@
       "role": "developer"
     }
   ]
+  
 }
 
