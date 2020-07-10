@@ -6,11 +6,6 @@ Para el correcto funcionamiento del módulo es necesario contar con:
 
   EJECUTAR ::: composer require andreani-publico/magento-2.3:dev-master
 
-- HTML2PDF
-
-```
-composer require spipu/html2pdf
-```
 
 ```
 Magento version >= 2.3 
